@@ -1,0 +1,3 @@
+argilla
+setfit==1.0.3 
+transformers==4.40.2
